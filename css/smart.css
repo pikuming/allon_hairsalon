@@ -143,6 +143,7 @@ header h1 {
 }
 .reserve_info .tel {
     font-size: 2rem;
+    color: #555555;
 }
 .reserve_info .tel span {
     font-size: 1.2rem;
@@ -224,7 +225,10 @@ header h1 {
     flex-direction: column;
 }
 .access .access_img {
-    margin: 0 0 20px;
+    margin: 0 0 30px;
+}
+.access .access_txt .access_info {
+    padding: 10px 0 30px;
 }
 .access .access_btn {
     flex-direction: column;
