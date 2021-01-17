@@ -64,6 +64,7 @@ header h1 {
     transition: opacity .3s ease, visibility .3s ease;
 }
 #gNav_list ul {
+    font-size: 3rem;
     flex-direction: column;
 }
 #gNav_list ul li + li {
@@ -76,7 +77,7 @@ header h1 {
     display: block;
     color: #323232;
     text-decoration: none;
-    padding: 15px 0;
+    padding: 18px 0;
     transition: color .3s ease;
     font-size: .55em;
     letter-spacing: .2em;
