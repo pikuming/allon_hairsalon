@@ -9,7 +9,6 @@ body {
     color: #707070;
     line-height: 1.5;
     letter-spacing: .05em;
-    /* font-family: "Noto Sans CJK JP","Noto Sans Japanese","Noto Sans JP","source-han-sans-cjk-ja"; */
     font-family: Helvetica,Arial,ヒラギノ角ゴ Pro,Hiragino Kaku Gothic Pro,YuGothic,游ゴシック体,メイリオ,Meiryo,sans-serif;
 }
 
@@ -276,6 +275,7 @@ header h1 {
 .stylist .stylist_item .staff_info .staff_name_en {
     font-size: 1.2rem;
     display: block;
+        font-family: "Noto Sans CJK JP","Noto Sans Japanese","Noto Sans JP","source-han-sans-cjk-ja";
 }
 
 /* モーダルウインドウ */
